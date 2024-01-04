@@ -1,4 +1,4 @@
-Step-by-Step Guide
+## Step-by-Step Guide
 
 1.create an ec2(t2.micro) instance on AWS and after ssh to this instance install terraform on that using below commands: #Confirm the latest version number on the terraform 
 website: https://www.terraform.io/downloads.html
@@ -42,4 +42,10 @@ check grafana http://<ip_addr_monitoring_server>:3000
     $ sudo systemctl status node_exporter
 
     $ sudo systemctl status grafana-server
+
+
+![Complete CI-CD PROJECT](https://github.com/Rojha-git/YT_cloned_app/blob/main/nodejs-ci-cd.PNG)
+
+
+
 
