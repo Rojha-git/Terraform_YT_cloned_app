@@ -44,7 +44,7 @@ check grafana http://<ip_addr_monitoring_server>:3000
     $ sudo systemctl status grafana-server
 
 
-![Complete CI-CD PROJECT](https://github.com/Rojha-git/YT_cloned_app/blob/main/nodejs-ci-cd.PNG)
+![Complete CI-CD PROJECT](https://github.com/Rojha-git/YT_cloned_app/blob/main/images/Jenkins-CI-CD.PNG)
 
 
 
